@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laxman-poudel.com.np/sitemap.xml
